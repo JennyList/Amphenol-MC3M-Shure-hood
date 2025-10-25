@@ -7,3 +7,5 @@ I've made a plug of sorts, carefully picking from my stock of crimp-on cable ter
 Take care to pick your pins so they do not put undue strain on the socket.
 
 [Here's the accompanying video.](https://www.youtube.com/watch?v=L6kH2qO_q8w)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
